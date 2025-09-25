@@ -7,7 +7,7 @@ Projeto feito através do desafio do site Frontend Mentor com o objetivo de estu
 ### Links
 
 - URL da Solução: [Solução](https://www.frontendmentor.io/solutions/recipe-page-Jq0YlF-_OB)
-- URL do Site ao Vivo: [Projeto](https://lohan-martins.github.io/recipe-page-frontend-mentor-challenge/)
+- URL do Site ao Vivo: [Projeto](https://lohan-martins.github.io/frontend-mentor-recipe-page-challenge/)
 
 ## Meu Processo
 
